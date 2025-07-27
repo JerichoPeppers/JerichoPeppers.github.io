@@ -15,5 +15,49 @@
       <guid>https://jerichopeppers.github.io/posts/mypost/</guid>
       <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World&lt;/h2&gt;</description>
     </item>
+    <item>
+      <title>Testragerer</title>
+      <link>https://jerichopeppers.github.io/blog/testragerer/</link>
+      <pubDate>Thu, 17 Jul 2025 22:44:31 +0200</pubDate>
+      <guid>https://jerichopeppers.github.io/blog/testragerer/</guid>
+      <description>&lt;p&gt;thisis s a shit post. Please please me&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blogatog</title>
+      <link>https://jerichopeppers.github.io/blog/blogatog/</link>
+      <pubDate>Thu, 17 Jul 2025 22:43:24 +0200</pubDate>
+      <guid>https://jerichopeppers.github.io/blog/blogatog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First post of the year</title>
+      <link>https://jerichopeppers.github.io/blog/demhurts/</link>
+      <pubDate>Sat, 30 Sep 2023 18:45:23 -0300</pubDate>
+      <guid>https://jerichopeppers.github.io/blog/demhurts/</guid>
+      <description>&lt;h1 id=&#34;the-situation-problem&#34;&gt;The Situation Problem.&lt;/h1&gt;
+&lt;p&gt;One of the issues that many people do encounter with remote sensing projects is the question of accuracy and available resources. One simple issue is that although the topographical info does give you a number on the m level, you are not necessarily sure on the accuracy of these.&lt;/p&gt;
+&lt;p&gt;This is really kinda important not only in com&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Does this really work??&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://jerichopeppers.github.io/projects/about/</link>
+      <pubDate>Sat, 30 Sep 2023 17:47:06 -0300</pubDate>
+      <guid>https://jerichopeppers.github.io/projects/about/</guid>
+      <description>&lt;h1 id=&#34;this-is-an-about-page&#34;&gt;this is an about page&lt;/h1&gt;
+&lt;h2 id=&#34;writing-text-here-adddddd&#34;&gt;writing text here adddddd&lt;/h2&gt;
+&lt;p&gt;and also here&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hi, this is me</title>
+      <link>https://jerichopeppers.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jerichopeppers.github.io/about/</guid>
+      <description>&lt;p&gt;nice to meet you. this is a ebit of a blog thinggy I have to just have a bit of a presence online. someone said that it would be a great idea so yeah&amp;hellip; I guess here we go. yyyy&lt;/p&gt;
+&lt;p&gt;have fun reading it if you want.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jerichopeppers.github.io/scheidegger1973.pdf&#34;&gt;here&amp;rsquo;s my CV if you&amp;rsquo;re looking to hire me :)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;this-is-my-mapmd-file&#34;&gt;This is my map.md file&lt;/h2&gt;</description>
+    </item>
   </channel>
 </rss>

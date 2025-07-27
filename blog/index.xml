@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on ExampleSite</title>
+    <link>https://jerichopeppers.github.io/blog/</link>
+    <description>Recent content in Blogs on ExampleSite</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Jul 2025 22:44:31 +0200</lastBuildDate>
+    <atom:link href="https://jerichopeppers.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testragerer</title>
+      <link>https://jerichopeppers.github.io/blog/testragerer/</link>
+      <pubDate>Thu, 17 Jul 2025 22:44:31 +0200</pubDate>
+      <guid>https://jerichopeppers.github.io/blog/testragerer/</guid>
+      <description>&lt;p&gt;thisis s a shit post. Please please me&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blogatog</title>
+      <link>https://jerichopeppers.github.io/blog/blogatog/</link>
+      <pubDate>Thu, 17 Jul 2025 22:43:24 +0200</pubDate>
+      <guid>https://jerichopeppers.github.io/blog/blogatog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First post of the year</title>
+      <link>https://jerichopeppers.github.io/blog/demhurts/</link>
+      <pubDate>Sat, 30 Sep 2023 18:45:23 -0300</pubDate>
+      <guid>https://jerichopeppers.github.io/blog/demhurts/</guid>
+      <description>&lt;h1 id=&#34;the-situation-problem&#34;&gt;The Situation Problem.&lt;/h1&gt;
+&lt;p&gt;One of the issues that many people do encounter with remote sensing projects is the question of accuracy and available resources. One simple issue is that although the topographical info does give you a number on the m level, you are not necessarily sure on the accuracy of these.&lt;/p&gt;
+&lt;p&gt;This is really kinda important not only in com&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Does this really work??&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

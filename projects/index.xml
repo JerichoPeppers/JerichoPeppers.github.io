@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on ExampleSite</title>
+    <link>https://jerichopeppers.github.io/projects/</link>
+    <description>Recent content in Projects on ExampleSite</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Sep 2023 17:47:06 -0300</lastBuildDate>
+    <atom:link href="https://jerichopeppers.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jerichopeppers.github.io/projects/about/</link>
+      <pubDate>Sat, 30 Sep 2023 17:47:06 -0300</pubDate>
+      <guid>https://jerichopeppers.github.io/projects/about/</guid>
+      <description>&lt;h1 id=&#34;this-is-an-about-page&#34;&gt;this is an about page&lt;/h1&gt;
+&lt;h2 id=&#34;writing-text-here-adddddd&#34;&gt;writing text here adddddd&lt;/h2&gt;
+&lt;p&gt;and also here&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
